@@ -1,0 +1,168 @@
+{
+    "note": "KDP categories filtered for Noon.com market analysis. Haram categories excluded.",
+    "main_categories": [
+      {
+        "category": "Fiction",
+        "subcategories": [
+          "Literary Fiction",
+          "Mystery",
+          "Thriller",
+          "Romance",
+          "Historical Fiction",
+          "Science Fiction",
+          "Fantasy",
+          "Horror",
+          "Action & Adventure",
+          "Humor & Comedy",
+          "Short Stories",
+          "Anthologies"
+        ]
+      },
+      {
+        "category": "Non-Fiction",
+        "subcategories": [
+          "Biography & Autobiography",
+          "Memoir",
+          "History",
+          "Business & Economics",
+          "Self-Help",
+          "Personal Development",
+          "Health & Fitness",
+          "Cooking & Food",
+          "Travel",
+          "Education",
+          "Science",
+          "Technology",
+          "Philosophy",
+          "Psychology",
+          "Parenting & Family",
+          "Relationships",
+          "Career & Success",
+          "Finance & Investing",
+          "Marketing & Sales",
+          "Entrepreneurship"
+        ]
+      },
+      {
+        "category": "Children's Books",
+        "subcategories": [
+          "Picture Books",
+          "Early Learning",
+          "Bedtime Stories",
+          "Educational",
+          "Activity Books",
+          "Fairy Tales & Folklore",
+          "Adventure Stories",
+          "Science & Nature for Kids",
+          "History for Kids",
+          "Biography for Kids"
+        ]
+      },
+      {
+        "category": "Young Adult",
+        "subcategories": [
+          "Fiction",
+          "Fantasy",
+          "Romance",
+          "Mystery",
+          "Science Fiction",
+          "Coming of Age",
+          "Contemporary"
+        ]
+      },
+      {
+        "category": "Education & Reference",
+        "subcategories": [
+          "Study Guides",
+          "Language Learning",
+          "Academic Textbooks",
+          "Dictionaries",
+          "Encyclopedias",
+          "Test Preparation",
+          "Teaching Methods"
+        ]
+      },
+      {
+        "category": "Health & Wellness",
+        "subcategories": [
+          "Fitness & Exercise",
+          "Nutrition",
+          "Mental Health",
+          "Alternative Medicine",
+          "Weight Loss",
+          "Yoga & Meditation",
+          "Wellness & Lifestyle"
+        ]
+      },
+      {
+        "category": "Business & Professional",
+        "subcategories": [
+          "Management",
+          "Leadership",
+          "Entrepreneurship",
+          "Marketing",
+          "Sales",
+          "Finance",
+          "Investing",
+          "Real Estate",
+          "Career Development"
+        ]
+      },
+      {
+        "category": "Arts & Photography",
+        "subcategories": [
+          "Photography",
+          "Drawing",
+          "Painting",
+          "Design",
+          "Architecture",
+          "Fashion",
+          "Music"
+        ]
+      },
+      {
+        "category": "Sports & Recreation",
+        "subcategories": [
+          "Sports Biographies",
+          "Training & Coaching",
+          "Outdoor Activities",
+          "Fitness",
+          "Martial Arts",
+          "Team Sports"
+        ]
+      },
+      {
+        "category": "Comics & Graphic Novels",
+        "subcategories": [
+          "Superhero",
+          "Manga",
+          "Fantasy",
+          "Science Fiction",
+          "Humor",
+          "Educational Comics"
+        ]
+      },
+      {
+        "category": "Poetry",
+        "subcategories": [
+          "Contemporary Poetry",
+          "Classic Poetry",
+          "Love Poetry",
+          "Inspirational Poetry"
+        ]
+      }
+    ],
+    "excluded_categories": [
+      "Gambling",
+      "Pork",
+      "Religion & Spirituality",
+      "Alcohol",
+      "Adult Content",
+      "Occult & Paranormal"
+    ],
+    "search_strategy": {
+      "skip_if_no_results_threshold": 0,
+      "max_products_per_category": 50,
+      "min_products_for_viable_niche": 5
+    }
+  }
